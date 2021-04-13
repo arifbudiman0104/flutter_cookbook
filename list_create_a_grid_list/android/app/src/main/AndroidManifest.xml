@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.list_create_a_grid_list">
    <application
-        android:label="list_create_a_grid_list"
+        android:label="List - Grid List"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
