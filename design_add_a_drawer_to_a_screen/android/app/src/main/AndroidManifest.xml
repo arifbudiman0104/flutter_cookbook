@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.design_add_a_drawer_to_a_screen">
    <application
-        android:label="design_add_a_drawer_to_a_screen"
+        android:label="Design - Drawer"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
