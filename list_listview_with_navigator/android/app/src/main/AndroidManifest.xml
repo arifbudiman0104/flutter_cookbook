@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.list_listview_with_navigator">
    <application
-        android:label="list_listview_with_navigator"
+        android:label="List - List View Navigator"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
