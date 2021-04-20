@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.design_material_floating_search_bar">
    <application
-        android:label="design_material_floating_search_bar"
+        android:label="Design - Material Search Bar"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
